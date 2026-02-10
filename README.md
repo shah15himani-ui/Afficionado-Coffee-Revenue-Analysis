@@ -35,10 +35,10 @@ The goal is to uncover revenue-driving products, customer preferences, and sales
   https://github.com/shah15himani-ui/Afficionado-Coffee-Revenue-Analysis
 
 - **Research Paper:**  
-  _Add your paper link here_
+  https://docs.google.com/document/d/1TEa36X5FKcJESC3nfd2ky4g4ygUF3JonJkyfx0Er-F4/edit?usp=sharing
 
 - **Deployed Project / Dashboard:**  
-  _Add your deployed app or Power BI Service link here_
+  In progress
 
 ---
 
